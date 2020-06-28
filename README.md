@@ -15,6 +15,6 @@ This repository is an invitation to the newcomers to the language to witness how
 * Each Notebook (and if possible, sections therein) should be independent and separabale units of code. Files, if present, sit at the folder root of the notebook.
 
 ## Notebooks:
-1. Vocabulary Analysis of the German Language.  *#NLP*
-2. Project Euler with Python. *#Competitive Programming, #Mathematical Methods*
+1. [Vocabulary Analysis of the German Language.](https://github.com/davidahmed/TJoP/blob/master/German%20Language%20Vocabulary/German_Vocab_Analysis.ipynb)  *#NLP*
+2. [Project Euler with Python.](https://github.com/davidahmed/TJoP/blob/master/Project%20Euler/Project%20Euler%20with%20Python.ipynb) *#Competitive Programming, #Mathematical Methods*
 
